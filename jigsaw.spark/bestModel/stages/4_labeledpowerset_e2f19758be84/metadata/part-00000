@@ -1,0 +1,1 @@
+{"class":"jigsaw.LabelPowerset","timestamp":1567489901277,"sparkVersion":"2.4.4","uid":"labeledpowerset_e2f19758be84","paramMap":{"inputCol":"features","labelOutputCol":"label","labelInputCols":"toxic,severe_toxic,obscene,threat,insult,identity_hate"},"defaultParamMap":{}}
